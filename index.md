@@ -7,8 +7,8 @@
 - [GitHub](https://github.com/yushoyamaguchi)
 
 # Blog(Japanese)
-- [Blog](https://yama-vanvan.hatenablog.com)
+- [はてなブログ](https://yama-vanvan.hatenablog.com)
 
 # Publications
-- [IA 2023](https://ken.ieice.org/ken/paper/20231122RCYm/)
-- [Internship](https://engineers.ntt.com/entry/2023/03/16/075605)
+- [IA研究会 2023](https://ken.ieice.org/ken/paper/20231122RCYm/)
+- [Internship 2023](https://engineers.ntt.com/entry/2023/03/16/075605)
