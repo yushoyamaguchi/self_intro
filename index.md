@@ -1,3 +1,9 @@
+# Who am I?
+- Yusho Yamaguchi
+- Master's student at the Osaka University
+
+<img src="icon_yama.jpg" width="15%">
+
 # Interest
 - System Software (OS, virtualization, etc.)
 - Networking (BGP, SRv6, etc.)
