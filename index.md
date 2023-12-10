@@ -14,6 +14,7 @@
 
 # Blog(Japanese)
 - [はてなブログ](https://yama-vanvan.hatenablog.com)
+- [Qiita](https://qiita.com/yama_vanvan)
 
 # Publications
 - [IA研究会 2023](https://ken.ieice.org/ken/paper/20231122RCYm/)
