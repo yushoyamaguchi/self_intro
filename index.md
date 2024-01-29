@@ -4,6 +4,12 @@
 
 <img src="icon_yama.jpg" width="15%">
 
+![JANOG53 Meeting](janog53_talk.jpg)
+
+<small>JANOG53ミーティング フォトアルバムより</small>
+
+
+
 # Interest
 - System Software (OS, virtualization, etc.)
 - Networking (BGP, SRv6, etc.)
