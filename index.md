@@ -5,7 +5,7 @@
 <img src="icon_yama.jpg" width="15%">
 
 
-<img src="janog53_talking.jpg" width="40%" alt="JANOG53 Meeting">
+<img src="janog53_talking.jpg" width="50%" alt="JANOG53 Meeting">
 <small>(JANOG53ミーティング フォトアルバムより)</small>
 
 
