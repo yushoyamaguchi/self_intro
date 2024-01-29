@@ -4,9 +4,10 @@
 
 <img src="icon_yama.jpg" width="15%">
 
-![JANOG53 Meeting](janog53_talking.jpg)
 
+<img src="janog53_talking.jpg" width="30%" alt="JANOG53 Meeting">
 <small>JANOG53ミーティング フォトアルバムより</small>
+
 
 
 
