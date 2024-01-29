@@ -26,3 +26,4 @@
 # Publications
 - [IA研究会 2023](https://ken.ieice.org/ken/paper/20231122RCYm/)
 - [Internship 2023](https://engineers.ntt.com/entry/2023/03/16/075605)
+- [JANOG53 Lightning Talk-Diving!!](https://www.janog.gr.jp/meeting/janog53/div5aspa/)
