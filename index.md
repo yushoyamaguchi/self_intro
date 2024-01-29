@@ -4,7 +4,7 @@
 
 <img src="icon_yama.jpg" width="15%">
 
-![JANOG53 Meeting](janog53_talk.jpg)
+![JANOG53 Meeting](janog53_talking.jpg)
 
 <small>JANOG53ミーティング フォトアルバムより</small>
 
