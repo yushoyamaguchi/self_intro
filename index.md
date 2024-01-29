@@ -6,7 +6,7 @@
 
 
 <img src="janog53_talking.jpg" width="50%" alt="JANOG53 Meeting">
-<small>(JANOG53ミーティング フォトアルバムより)</small>
+<small>(From JANOG53 Meeting Photo Album)</small>
 
 
 
