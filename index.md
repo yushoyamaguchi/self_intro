@@ -2,7 +2,7 @@
 
 # Who am I?
 - Yusho Yamaguchi
-- Master's student at the Osaka University
+- Software Engineer
 
 <img src="icon_yama.jpg" width="15%">
 
