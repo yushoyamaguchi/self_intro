@@ -18,7 +18,9 @@
 - System Software (OS, Virtualization, etc.)
 - Linux Kernel (eBPF, Networking, Scheduler, etc.)
 - Networking (BGP, SRv6, K8s Networking, etc.)
-    - Currently, I'm interested in k8s networking and Cilium.
+    - Currently, I'm interested in k8s networking.
+
+I'm a contributor of [Cilium](https://github.com/cilium/cilium).
 
 # GitHub
 - [GitHub](https://github.com/yushoyamaguchi)
