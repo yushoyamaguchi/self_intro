@@ -20,7 +20,9 @@
 - Networking (BGP, SRv6, K8s Networking, etc.)
     - Currently, I'm interested in k8s networking.
 
-I'm a contributor of [Cilium](https://github.com/cilium/cilium).
+I'm a contributor of [Cilium](https://github.com/cilium/cilium). <br>
+[My contributes](https://github.com/cilium/cilium/commits?author=yushoyamaguchi)
+
 
 # GitHub
 - [GitHub](https://github.com/yushoyamaguchi)
@@ -34,4 +36,4 @@ I'm a contributor of [Cilium](https://github.com/cilium/cilium).
 - [Internship 2023](https://engineers.ntt.com/entry/2023/03/16/075605)
 - [JANOG53 Lightning Talk-Diving!!](https://www.janog.gr.jp/meeting/janog53/div5aspa/)
 - [Tech Blog of TIER IV about Linux Kernel Scheduler](https://tier4.jp/en/media/detail/?sys_id=3na1vfdeSh42Y8e6FRJ6OJ&category=BLOG)
-- [Japanese ver of above Tech Blog of TIER IV](https://tier4.jp/media/detail/?sys_id=3na1vfdeSh42Y8e6FRJ6OJ&category=BLOG)
+- [[日本語版] Tech Blog of TIER IV about Linux Kernel Scheduler](https://tier4.jp/media/detail/?sys_id=3na1vfdeSh42Y8e6FRJ6OJ&category=BLOG)
