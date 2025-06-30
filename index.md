@@ -15,10 +15,11 @@
 
 
 # Interest
-- System Software (OS, Virtualization, etc.)
-- Linux Kernel (eBPF, Networking, Scheduler, etc.)
-- Networking (BGP, SRv6, K8s Networking, etc.)
-    - Currently, I'm interested in k8s networking.
+- Networking (OpenStack/K8s Networking, BGP, Packet Processing, etc.)
+    - I like both control plane and data plane.
+    - Especially, I like thinking about networking technology from a software perspective.
+- Linux Kernel (Networking stack, eBPF, kvm, etc.)
+- System Software about virtualization
 
 I'm a contributor of [Cilium](https://github.com/cilium/cilium). <br>
 [My contributes](https://github.com/cilium/cilium/commits?author=yushoyamaguchi)
